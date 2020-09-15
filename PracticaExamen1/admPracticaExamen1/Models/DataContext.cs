@@ -4,7 +4,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Web;
 
-namespace PracticaExamen1.Models
+namespace admPracticaExamen1.Models
 {
     public class DataContext : DbContext
     {
@@ -12,7 +12,5 @@ namespace PracticaExamen1.Models
         {
 
         }
-
-        public System.Data.Entity.DbSet<PracticaExamen1.Models.Michel> Michels { get; set; }
     }
 }

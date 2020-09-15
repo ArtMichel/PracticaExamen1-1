@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
-namespace PracticaExamen1.Models
+namespace admPracticaExamen1.Models
 {
     public enum CategoryType
     {
