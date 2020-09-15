@@ -12,5 +12,7 @@ namespace admPracticaExamen1.Models
         {
 
         }
+
+        public System.Data.Entity.DbSet<admPracticaExamen1.Models.Michel> Michels { get; set; }
     }
 }
